@@ -8,7 +8,7 @@ export default function Table({ collection }) {
 
     return (
         <div className="overflow-x-auto">
-            <table className="table border-separate [border-spacing:0_0.5rem]">
+            <table className="table border-separate [border-spacing:0_0.2rem]">
                 <thead>
                     <tr>
                         <th>ID</th>
